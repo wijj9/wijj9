@@ -54,4 +54,4 @@
 ---
 
 <!-- GitHub Stats Badge (Change to your username) -->
-![Wajih's GitHub Stats](https://github-readme-stats.vercel.app/api?username=wijj9&show_icons=true&theme=radical)
+![Wajih's GitHub Stats](https://github-readme-stats.vercel.app/api?username=wijj9&show_icons=true&theme=radical&cache_seconds=60)
